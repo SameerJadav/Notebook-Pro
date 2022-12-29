@@ -2,6 +2,10 @@
 
 A simple note taking application that allows users to save notes with a title and body.
 
+## Live Demo
+
+Check out the live demo of the app at https://sameerjadav.github.io/Notebook-Pro/
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
